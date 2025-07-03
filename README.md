@@ -8,7 +8,7 @@ PEAK is a cooperative climbing video game where players work together or solo to
 
   ![](https://raw.githubusercontent.com/solenumdecder/PEAK-Game/main/pictures/1.png)
 
-  ![](https://raw.githubusercontent.com/solenumdecder/PEAK-Game/main/pictures/.png)
+
 
   <a href="https://your-username.github.io/id/your-gen-string"><img src="https://your-button-link" height="80"></a>
 
